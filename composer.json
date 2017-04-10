@@ -1,0 +1,27 @@
+{
+  "name": "chenruixuan/rsa",
+  "description": "rsa for php",
+  "keywords": [
+    "rsa",
+    "php",
+    "php rsa",
+    "php-rsa"
+  ],
+  "homepage": "https://github.com/chenruixuan/rsa",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Chenruixuan",
+      "email": "www@chenruixuan.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Chenruixuan\\Rsa\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
